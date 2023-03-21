@@ -1,0 +1,28 @@
+{
+  "jobListings": [
+    {
+      "id": 1,
+      "title": "Webbutvecklare",
+      "tags": ["frontend", "backend", "fullstack"],
+      "location": "Stockholm"
+    },
+    {
+      "id": 2,
+      "title": "UX-designer",
+      "tags": ["design", "webb"],
+      "location": "Göteborg"
+    },
+    {
+      "id": 3,
+      "title": "DevOps Engineer",
+      "tags": ["Python", "Jenkins"],
+      "location": "Malmö"
+    },
+    {
+      "id": 4,
+      "title": ".NET Utvecklare",
+      "tags": [".net", "backend", "c#"],
+      "location": "Stockholm"
+    }
+  ]
+}
