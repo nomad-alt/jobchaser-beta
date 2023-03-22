@@ -1,0 +1,14 @@
+$background-color: #523a28;
+.fotter {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: $background-color;
+  color: White;
+  padding: 15px;
+  img {
+    width: 100px;
+    padding: 10px;
+  }
+}
