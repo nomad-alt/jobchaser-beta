@@ -1,16 +1,17 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
+import Fotter from "./components/Fotter";
 import Header from "./components/Header";
-import Search from './components/Search';
-import JobList from './components/JobList';
+import Search from "./components/Search";
+import JobList from "./components/JobList";
 import styles from "./App.module.scss";
-
 
 function App() {
   return (
     <div className={styles.app}>
-      <Header/>
-      <Search/>
-      <JobList/>
+      <Header />
+      <Search />
+      <JobList />
+      <Fotter />
     </div>
   );
 }

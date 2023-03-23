@@ -1,20 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Ingrid+Darling&display=swap');
-$font-color: #F6EAEA;
-$background-color: #523A28;
- .logo {
+@import url("https://fonts.googleapis.com/css2?family=Ingrid+Darling&display=swap");
+$font-color: #f6eaea;
+$background-color: #523a28;
+.logo {
   display: flex;
   background-color: $background-color;
   height: 8vh;
+  gap: 1rem;
 
-    h1 {
-  font-family: 'Ingrid Darling'; 
-  font-size: 50px;
-  color: $font-color;
-  padding: 10px;
-  font-weight: 200;
+  h1 {
+    margin-left: 10px;
+    font-family: "Ingrid Darling";
+    font-size: 65px;
+    color: $font-color;
+    font-weight: 100;
   }
   img {
-  width: 65px;
-  height: 65px;
+    margin-left: 1rem;
+    padding: 5px;
+    width: 65px;
+    height: 65px;
   }
 }
+
+

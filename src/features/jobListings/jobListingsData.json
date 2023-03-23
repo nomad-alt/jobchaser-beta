@@ -2,27 +2,31 @@
   "jobListings": [
     {
       "id": 1,
-      "title": "Webbutvecklare",
+      "title": "Web Developer",
       "tags": ["frontend", "backend", "fullstack"],
-      "location": "Stockholm"
+      "location": "Stockholm",
+      "decrebtion": "In this position, you work as a full-stack developer and will use C#, Javascript as well as Angular and SQL."
     },
     {
       "id": 2,
       "title": "UX-designer",
       "tags": ["design", "webb"],
-      "location": "Göteborg"
+      "location": "Göteborg",
+      "decrebtion": "We see that you are a creative person who finds it easy to take your own initiative. You have a strong focus on delivery and are meticulous, social and good at communicating in words and images. "
     },
     {
       "id": 3,
       "title": "DevOps Engineer",
       "tags": ["Python", "Jenkins"],
-      "location": "Malmö"
+      "location": "Malmö",
+      "decrebtion": "lorum 3 indcvniefienviervnievnievn"
     },
     {
       "id": 4,
-      "title": ".NET Utvecklare",
+      "title": ".NET Developer",
       "tags": [".net", "backend", "c#"],
-      "location": "Stockholm"
+      "location": "Stockholm",
+      "decrebtion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
     }
   ]
 }
