@@ -10,23 +10,23 @@
     {
       "id": 2,
       "title": "UX-designer",
-      "tags": ["design", "webb"],
+      "tags": ["design"],
       "location": "Göteborg",
       "decrebtion": "We see that you are a creative person who finds it easy to take your own initiative. You have a strong focus on delivery and are meticulous, social and good at communicating in words and images. "
     },
     {
       "id": 3,
       "title": "DevOps Engineer",
-      "tags": ["Python", "Jenkins"],
+      "tags": ["fullstack"],
       "location": "Malmö",
-      "decrebtion": "lorum 3 indcvniefienviervnievnievn"
+      "decrebtion": "As a DevOps Engineer, you will have the opportunity to lead and work on diverse and challenging projects for our clients."
     },
     {
       "id": 4,
       "title": ".NET Developer",
-      "tags": [".net", "backend", "c#"],
+      "tags": ["backend"],
       "location": "Stockholm",
-      "decrebtion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown"
+      "decrebtion": "We are looking for a back end developer to strengthen our team in building a world class platform for limitless digital commerce for companies aspiring to online excellence."
     }
   ]
 }

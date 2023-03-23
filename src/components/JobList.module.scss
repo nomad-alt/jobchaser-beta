@@ -1,15 +1,21 @@
 $background-color: rgb(138, 156, 61);
 $background-color-2: #f9efd8;
-$font-color: #f6eaea;
+$font-color: #492a10;
+ul{
+  margin-bottom: 100px;
+}
 li {
   color: $font-color;
-  width: 30vw;
+  list-style: none;
+  width: 50vw;
   border-radius: 10px;
   margin-bottom: 10px;
   padding: 15px;
-//   border: 1px solid black;
-  color: black;
+  margin:0 auto;
+  margin-bottom:10px;
+  font-family: sans-serif;
   background-color: $background-color-2; 
+  box-shadow: 0px 7px 10px 0px rgba(0, 0, 0, 0.1);
 
   h4 {
     margin: 10px;
@@ -18,5 +24,10 @@ li {
 }
 
 li:hover{
-   border: 10px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.3);
+}
+@media screen and (max-width: 600px) {
+  li {
+    width:90%;
+  }
 }

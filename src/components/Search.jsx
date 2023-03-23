@@ -28,6 +28,7 @@ function Search() {
   };
   return (
     <form>
+      <div className={styles.test}>
       <div className={styles.searchField}>
         <input
           className={styles.input}
@@ -38,7 +39,7 @@ function Search() {
           value={searchQuery}
           onChange={handleSearchChange}
         />
-      </div>
+       
       <div className={styles.dropdownMenu}>
         <button
           className={styles.menuButton}
@@ -59,18 +60,15 @@ function Search() {
               onChange={handleTagsChange}
             >
               <option value="frontend">Frontend</option>
-
               <option value="backend">Backend</option>
               <option value="fullstack">Fullstack</option>
               <option value="design">Design</option>
-              <option value="webb">Webb</option>
-              <option value="Python">Python</option>
-              <option value="Jenkins">Jenkins</option>
-              <option value=".net">.NET</option>
-              <option value="c#">C#</option>
             </select>
           </div>
+          
         )}
+        </div>
+         </div>
         {/* <label htmlFor="tags">Filter by tags:</label>
           <select
             id="tags"

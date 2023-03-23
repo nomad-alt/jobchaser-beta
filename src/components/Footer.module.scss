@@ -1,14 +1,19 @@
 $background-color: #523a28;
-.fotter {
+.footer {
   position: fixed;
+  bottom: 0;
   width: 100%;
   display: flex;
   justify-content: space-between;
   background-color: $background-color;
   color: White;
   padding: 15px;
+  margin-top: auto;
+  height: 8vh; 
+  font-size: 12px;
+  
   img {
     width: 100px;
-    padding: 10px;
+    padding: 12px;
   }
 }

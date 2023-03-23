@@ -19,6 +19,10 @@ function JobList() {
               Tags: {listing.tags.join(", ")}
             </p>
             <h4>{listing.decrebtion}</h4>
+            {/* <p>
+              <address>
+              <a href = "mailto: abc@example.com">Send Email</a>
+              </address></p> */}
           </li>
         ))}
       </ul>
