@@ -1,8 +1,10 @@
 import { configureStore } from "@reduxjs/toolkit";
 import jobListingsReducer from "../features/jobListings/jobListingsSlice";
 
-export default configureStore({
+const store = configureStore({
   reducer: {
     jobListings: jobListingsReducer,
   },
 });
+
+export default store;

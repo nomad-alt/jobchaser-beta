@@ -5,17 +5,13 @@ import JobList from './components/JobList';
 import Footer from "./components/Footer";
 import styles from "./App.module.scss";
 
-
-function App() {
-  return (
-    <div className={styles.app}>
-      <Header/>
-      <Search/>
-      <JobList/>
-      <Footer/>
-    </div>
-  );
-}
+const App = () => (
+  <div className={styles.app}>
+    <Header />
+    <Search />
+    <JobList />
+    <Footer />
+  </div>
+);
 
 export default App;
-

@@ -5,28 +5,28 @@
       "title": "Web Developer",
       "tags": ["frontend", "backend", "fullstack"],
       "location": "Stockholm",
-      "decrebtion": "In this position, you work as a full-stack developer and will use C#, Javascript as well as Angular and SQL."
+      "description": "In this position, you will work as a full-stack developer and use C#, JavaScript, Angular, and SQL."
     },
     {
       "id": 2,
-      "title": "UX-designer",
+      "title": "UX Designer",
       "tags": ["design"],
       "location": "Göteborg",
-      "decrebtion": "We see that you are a creative person who finds it easy to take your own initiative. You have a strong focus on delivery and are meticulous, social and good at communicating in words and images. "
+      "description": "We are looking for a creative person who takes initiative well. You should have a strong focus on delivery and be meticulous, social, and skilled at communicating visually and verbally."
     },
     {
       "id": 3,
       "title": "DevOps Engineer",
       "tags": ["fullstack"],
       "location": "Malmö",
-      "decrebtion": "As a DevOps Engineer, you will have the opportunity to lead and work on diverse and challenging projects for our clients."
+      "description": "As a DevOps Engineer, you will have the opportunity to lead and work on diverse and challenging projects for our clients."
     },
     {
       "id": 4,
       "title": ".NET Developer",
       "tags": ["backend"],
       "location": "Stockholm",
-      "decrebtion": "We are looking for a back end developer to strengthen our team in building a world class platform for limitless digital commerce for companies aspiring to online excellence."
+      "description": "We are looking for a back-end developer to strengthen our team in building a world-class platform for limitless digital commerce for companies aspiring to online excellence."
     }
   ]
 }
